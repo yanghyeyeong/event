@@ -147,7 +147,7 @@
         display: block;
         text-align: right;
         position: absolute;
-        right: 0px;
+        right: 20px;
         top: 150px;
         font-weight: bold;
         font-family: "Noto Sans KR", sans-serif;
@@ -278,6 +278,7 @@
         margin: 00px auto;
         box-sizing: border-box;
         filter: brightness(90%);
+        margin-top: 100px;
 
         animation-name: circle;
         animation-duration: 23s;
@@ -294,7 +295,7 @@
     }
 
     .con2 .phone {
-        width: 210px;
+        width: 200px;
         transform: translate(-50%, -50%);
         position: absolute;
         top: 25%;
@@ -322,7 +323,7 @@
         width: 200px;
         transform: translate(-50%, -50%);
         position: absolute;
-        top: 40%;
+        top: 45%;
         left: 35%;
         cursor: pointer;
         opacity: 1;
@@ -334,7 +335,7 @@
         width: 200px;
         transform: translate(-50%, -50%);
         position: absolute;
-        top: 50%;
+        top: 55%;
         left: 70%;
         cursor: pointer;
         opacity: 1;
@@ -352,6 +353,7 @@
     .con3 .silver {
         width: 50%;
         cursor: pointer;
+        margin-top: -70px;
     }
 
     /*con4*/
